@@ -56,13 +56,14 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 💻 I'm a **MERN Stack Developer**
-- 🌱 Currently learning **React, Node.js & Python**
-- 🚀 Building projects to improve my skills
-- 💡 Interested in **Web Development & AI**
-- ⚡ Fun fact: I love tech + bikes 🏍️  
+<ul style="font-size: 30px; line-height: 1.8;">
+  <li>💻 I'm a <b>MERN Stack Developer</b></li>
+  <li>🌱 Currently learning <b>React, Node.js & Python</b></li>
+  <li>🚀 Building projects to improve my skills</li>
+  <li>💡 Interested in <b>Web Development & AI</b></li>
+  <li>⚡ Fun fact: I love tech + bikes 🏍️</li>
+</ul>
 
----
 
 <h2 align="left">📊 GitHub Stats</h2>
 
